@@ -1,0 +1,14 @@
+{
+    "name":"yashbir",
+    "married":false,
+    "age":20,
+    "address":[{
+        "street":123,
+        "city":"gurugram"
+    },{
+        "street":234,
+        "city":"Haryana"
+    }
+],
+    "marks":[1,2,3,4,5,6,7,8,"bas bas bahut marks hai"]
+}
